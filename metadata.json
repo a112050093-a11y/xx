@@ -1,0 +1,7 @@
+{
+  "name": "Xdinary Heroes Pop-up Store in Taipei",
+  "description": "A rock-styled single-page website for Xdinary Heroes' pop-up store event in Taipei, featuring event countdowns, merchandise display, and band information.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
